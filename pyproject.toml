@@ -8,7 +8,7 @@ dynamic = ["version"]
 maintainers = [
     {name = "Dave Mellert", email = "dave.mellert@jax.org"}
     ]
-description = "A suite of convenience functions for working with OMERO. Written and maintained by the Research IT team at The Jackson Laboratory."
+description = "A suite of convenience functions for working with OMERO."
 readme = "README.md"
 license = "GPL-2.0"
 dependencies = [
@@ -23,4 +23,5 @@ docs = ["sphinx"]
 
 [project.urls]
 Repository = "https://github.com/TheJacksonLaboratory/ezomero"
+
 
