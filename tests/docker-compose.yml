@@ -41,6 +41,10 @@ services:
       - omero
     ports:
       - "5080:4080"
+    ulimits:
+      nofile:
+        soft: 8192
+        hard: 65536
 
 networks:
   omero:
