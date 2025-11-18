@@ -19,7 +19,7 @@ In general, you will need to create a `BlitzGateway` object using `ezomero.conne
 
 # Documentation
 
-Documentation is available at https://thejacksonlaboratory.github.io/ezomero/
+Documentation is available at [https://erickmartins.github.io/ezomero](https://erickmartins.github.io/ezomero)
 
 # Development
 
