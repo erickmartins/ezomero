@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "ezomero"
 dynamic = ["version"]
 maintainers = [
-    {name = "Erick Ratamero", email = "erick.ratamero@embl.de"}
+    {name = "Erick Ratamero", email = "erick.ratamero@embl.de"},
     {name = "Dave Mellert", email = "dave.mellert@jax.org"}
     ]
 description = "A suite of convenience functions for working with OMERO."
@@ -24,6 +24,7 @@ docs = ["sphinx"]
 
 [project.urls]
 Repository = "https://github.com/erickmartins/ezomero"
+
 
 
 
