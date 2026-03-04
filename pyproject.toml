@@ -16,7 +16,7 @@ description = "A suite of convenience functions for working with OMERO."
 readme = "README.md"
 license = "GPL-2.0"
 dependencies = [
-    "omero-py >= 5.22.0",
+    "omero-py >= 5.22.0, < 6.0",
     "numpy >= 2, < 3.0"
     ]
 requires-python = ">=3.10"
